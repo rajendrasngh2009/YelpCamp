@@ -1,6 +1,5 @@
-#YelpCamp
-#Node - Express - ejs - Bootsrap 3 - Mongo DB
-
+# YelpCamp
+# Node - Express - ejs - Bootsrap 3 - Mongo DB
 Camping Site - Webdeveloper bootcamp training - Added new features
 
 New Features are:
